@@ -66,6 +66,7 @@
         }
     },
     "dependencies": {
+        "plugin_api_version": "3",
         "use_jquery": true
     },
     "shared_keys": {
@@ -91,6 +92,10 @@
         },
         "AKW": {
             "caption": "Here API secret key",
+            "type": "secure"
+        },
+        "ANq": {
+            "caption": "ESRI key",
             "type": "secure"
         }
     }
