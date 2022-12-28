@@ -1,6 +1,6 @@
 {
     "category": "plugins",
-    "display": "Leafy Maps - Get BR coordinate data from ESRI",
+    "display": "Freedom Maps - Get BR coordinate data from ESRI",
     "fields": {
         "ALR": {
             "caption": "Latitude",

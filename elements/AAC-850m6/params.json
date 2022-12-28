@@ -104,6 +104,7 @@
     "states": {
         "ACP": {
             "caption": "Stadia route request body",
+            "doc": "",
             "initialization_code": {
                 "fn": "function(properties, context) {\n\n\n\n}"
             },
@@ -586,6 +587,14 @@
             },
             "is_list": true,
             "name": "cluster_clicked_marker_ids",
+            "value": "text"
+        },
+        "ANu": {
+            "caption": "Key Mapbox Exposed kk",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "key_mapbox",
             "value": "text"
         }
     }

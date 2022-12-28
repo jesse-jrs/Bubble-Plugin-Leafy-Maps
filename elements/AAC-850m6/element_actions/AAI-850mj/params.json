@@ -76,6 +76,13 @@
             "name": "marker_name",
             "rank": 8,
             "value": "text"
+        },
+        "ANw": {
+            "caption": "Key Mapbox Actions kk",
+            "editor": "DynamicValue",
+            "name": "key_mapbox",
+            "rank": 9,
+            "value": "text"
         }
     }
 }

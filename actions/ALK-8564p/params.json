@@ -1,6 +1,6 @@
 {
     "category": "plugins",
-    "display": "Leafy Maps - Send data to host page (popup)",
+    "display": "Freedom Maps - Send data to host page (popup)",
     "fields": {
         "ALL": {
             "caption": "Data to be sent",

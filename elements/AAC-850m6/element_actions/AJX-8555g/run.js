@@ -1,7 +1,7 @@
 function(instance, properties, context) {
 
     const geocoder = new MapboxGeocoder({
-        accessToken: context.keys["Mapbox access token"],
+        accessToken: `${properties.key_mapbox}`,
     })
 
     geocoder.addTo(`#${properties.query_container}`);

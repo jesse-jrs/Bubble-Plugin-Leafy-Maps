@@ -1,6 +1,6 @@
 {
     "category": "plugins",
-    "display": "Leafy Maps - Get HERE temporary token",
+    "display": "Freedom Maps - Get HERE temporary token",
     "fields": {
         "AKU": {
             "caption": "URL",

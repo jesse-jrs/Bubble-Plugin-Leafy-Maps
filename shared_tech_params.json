@@ -70,10 +70,6 @@
         "use_jquery": true
     },
     "shared_keys": {
-        "AAp": {
-            "caption": "Mapbox access token",
-            "type": "client_safe"
-        },
         "ACU": {
             "caption": "Openweathermap API key",
             "type": "client_safe"

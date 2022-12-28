@@ -51,7 +51,7 @@ function(instance, properties, context) {
                 maxZoom: 20,
                 zoomOffset: -1,
                 id: `mapbox/${properties.mapbox_tile}`,
-                accessToken: context.keys["Mapbox access token"]
+                accessToken: `${properties.key_mapbox}`
             }).addTo(instance.data.mymap);
 
 
@@ -63,7 +63,7 @@ function(instance, properties, context) {
                 maxZoom: 20,
                 zoomOffset: -1,
                 id: properties.mapbox_custom_id,
-                accessToken: context.keys["Mapbox access token"]
+                accessToken: `${properties.key_mapbox}`
             }).addTo(instance.data.mymap);
             
         }
