@@ -7,7 +7,7 @@
             "editor": "Dropdown",
             "name": "mapbox_tile",
             "optional": true,
-            "options": "streets-v12,outdoors-v12,light-v11,dark-v11,satellite-v9,satellite-streets-v12,navigation-night-v1,navigation-day-v1,navigation-night-v1,Custom from studio",
+            "options": "streets-v12,outdoors-v12,light-v11,dark-v11,satellite-v9,satellite-streets-v12,navigation-day-v1,navigation-night-v1,Custom from studio",
             "rank": 8
         },
         "AAN": {

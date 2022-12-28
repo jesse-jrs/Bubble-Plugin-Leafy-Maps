@@ -6,11 +6,12 @@
         "3": "mobile",
         "4": "location"
     },
-    "description": "ugin is a FORK of the \"Leafy Maps\" plugin\n\nPlugin \"Leafy Maps\" lost support and no more updates\n\nThis Plugin \"Freedom Maps\" has everything that was in \"Leafy Maps\", but it is always updated and has many new features, such as:\n\n* 100% Responsive (already adapted for the new Bubble responsiveness engine)\n* Updated maps\n* New Maps\n* Dynamic API for Mapbox (the api is now placed in the workflow as dynamic data, that is, each user or application can have its own API. This will make the free API sufficient)",
+    "demo_page": "https://ead-mbb3.bubbleapps.io/version-test/app",
+    "description": "This plugin is a FORK of the \"Leafy Maps\" plugin\n\nPlugin \"Leafy Maps\" lost support and no more updates\n\nThis Plugin \"Freedom Maps\" has everything that was in \"Leafy Maps\", but it is always updated and has many new features, such as:\n\n* 100% Responsive (already adapted for the new Bubble responsiveness engine)\n* Updated maps\n* New Maps\n* Dynamic API for Mapbox (the api is now placed in the workflow as dynamic data, that is, each user or application can have its own API. This will make the free API sufficient)",
     "image": "//s3.amazonaws.com/appforest_uf/f1672183559445x521875244816959700/freedom%20maps.png",
     "license": "commercial",
     "link": "https://forum.bubble.is/t/leafy-maps-new-free-plugin/63757",
-    "name": "Freedom Maps - Responsive, with Dynamic API and with MapBox (Fork Leafy Map)",
+    "name": "Freedom Maps - Responsive (Leafy)",
     "plugin_instructions": "See https://forum.bubble.is/t/leafy-maps-new-free-plugin/63757 for instructions.\nAnd use the search tool in that topic, there is a lot of information scattered in several posts.",
     "sa_node_version": 14
 }
